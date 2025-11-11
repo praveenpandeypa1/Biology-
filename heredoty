@@ -1,0 +1,225 @@
+Heredity: Heredity is the passing of traits (characters) from parents to offspring through genes.
+
+**Basic terms you must know:
+| Term                | Meaning                                                                                                 |
+| ------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Trait**           | Any **characteristic** that can be inherited (e.g., eye color, height, etc.)                            |
+| **Gene**            | A **unit of heredity** made of DNA that controls a specific trait                                       |
+| **Allele**          | Different forms of a gene (e.g., Tall (T) and short (t) for height)                                     |
+| **Genotype**        | Genetic makeup of an organism (e.g., TT, Tt, tt)                                                        |
+| **Phenotype**       | Physical appearance (e.g., Tall or Short)                                                               |
+| **Dominant Trait**  | The trait that is **expressed even in one copy** (e.g., T in Tt)                                        |
+| **Recessive Trait** | The trait that is **masked by dominant one**, expressed only when both alleles are recessive (e.g., tt) |
+| **Homozygous**      | Both alleles are same (TT or tt)                                                                        |
+| **Heterozygous**    | Two different alleles (Tt)                                                                              |
+| **Hybrid**          | Offspring obtained by crossing two parents with **different traits**                                    |
+| **Pure line**       | Offspring obtained from parents with **same traits for many generations**                               |
+
+
+**Mandels experiment: fathet of genetics:
+🧠 Who was Mendel?
+Gregor Johann Mendel (1822–1884) was an Austrian monk and scientist.
+He is known as the Father of Genetics.
+He performed experiments on pea plants (Pisum sativum) for 7 years (1856–1863) in the garden of his monastery.
+
+  **Why mandels choose pea plants:
+| Reason                              | Explanation                               |
+| ----------------------------------- | ----------------------------------------- |
+| 1. Short life cycle                 | Many generations could be studied quickly |
+| 2. Clear contrasting traits         | e.g. Tall/short, Round/wrinkled seeds     |
+| 3. Self-pollinating                 | Natural self-pollination ensures purity   |
+| 4. Can be cross-pollinated manually | Allowed control of breeding               |
+| 5. Easy to cultivate                | Grows easily and produces many seeds      |
+
+  **Traits studied by mandels:
+
+| Character          | Dominant Trait | Recessive Trait |
+| ------------------ | -------------- | --------------- |
+| 1. Plant height    | Tall           | Dwarf           |
+| 2. Flower color    | Violet         | White           |
+| 3. Flower position | Axial          | Terminal        |
+| 4. Pod color       | Green          | Yellow          |
+| 5. Pod shape       | Inflated       | Constricted     |
+| 6. Seed shape      | Round          | Wrinkled        |
+| 7. Seed color      | Yellow         | Green           |
+
+  🧬 Mendel’s Experimental Steps
+1️⃣ Monohybrid Cross (One trait)
+Example: Crossing tall and dwarf pea plants
+Parent Generation (P):
+Tall (TT) × Dwarf (tt)
+Gametes: T and t
+F₁ Generation:
+All plants Tall (Tt)
+→ Only dominant trait appears (Tall).
+Self-pollination of F₁:
+F₁ (Tt) × F₁ (Tt)
+F₂ Generation (offspring):
+Genotypic ratio: 1 TT : 2 Tt : 1 tt
+Phenotypic ratio: 3 Tall : 1 Dwarf
+🧩 Conclusion: One trait (Tall) dominates over the other (Dwarf).
+
+2️⃣ Dihybrid Cross (Two traits)
+Example:
+Round Yellow (RRYY) × Wrinkled Green (rryy)
+F₁ Generation:
+All Round Yellow (RrYy)
+Self-pollination of F₁:
+(RrYy × RrYy)
+F₂ Generation:
+Phenotypic ratio:
+9 Round Yellow : 3 Round Green : 3 Wrinkled Yellow : 1 Wrinkled Green
+🧩 Conclusion: Traits are inherited independently (Law of Independent Assortment).
+
+  ***Mandells three law of inheritance:
+| Law                                  | Explanation                                                                                                            | Example                                    |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| **1. Law of Dominance**              | One factor (gene) dominates the other; the dominant trait appears in F₁.                                               | Tall (T) is dominant over Dwarf (t).       |
+| **2. Law of Segregation**            | Each trait is controlled by two factors (alleles) which separate during gamete formation; only one enters each gamete. | TT → gametes have T and T; tt → t and t.   |
+| **3. Law of Independent Assortment** | Genes for different traits are inherited independently of each other.                                                  | Seed color and shape behave independently. |
+
+**Summury chart:
+| Cross Type | Traits Studied | F₁ Result           | F₂ Ratio (Phenotypic) | Law Illustrated               |
+| ---------- | -------------- | ------------------- | --------------------- | ----------------------------- |
+| Monohybrid | 1              | All dominant        | 3:1                   | Law of Dominance, Segregation |
+| Dihybrid   | 2              | All dominant traits | 9:3:3:1               | Independent Assortment        |
+
+
+🧬 1. Chromosomes
+📖 Definition:
+Chromosomes are thread-like structures made of DNA and proteins (histones) present inside the nucleus of every cell.
+They carry hereditary information from parents to offspring.
+
+  | Feature              | Description                                                                   |
+| -------------------- | ----------------------------------------------------------------------------- |
+| **Location**         | Inside the **nucleus** of cells                                               |
+| **Made up of**       | DNA + Protein (histones)                                                      |
+| **Function**         | Carry genetic information (genes)                                             |
+| **Number in Humans** | **46 chromosomes (23 pairs)**                                                 |
+| **Types**            | (1) **Autosomes** – 22 pairs <br> (2) **Sex Chromosomes** – 1 pair (XX or XY) |
+
+**Human Chromosomes details:
+| Type                | Description                                             | Example                |
+| ------------------- | ------------------------------------------------------- | ---------------------- |
+| **Autosomes**       | Control normal body traits like height, eye color, etc. | 1–22 pairs             |
+| **Sex Chromosomes** | Determine gender                                        | XX = Female, XY = Male |
+
+🧫 2. Genes
+📖 Definition:
+A gene is a segment of DNA on a chromosome that controls a specific trait or character.
+Each gene acts as a blueprint for making a particular protein that determines a characteristic (like eye color, blood type, etc.).
+
+**Key points about gense:
+| Feature                       | Description                                            |
+| ----------------------------- | ------------------------------------------------------ |
+| **Location**                  | On chromosomes (at specific position called **locus**) |
+| **Made of**                   | DNA                                                    |
+| **Function**                  | Controls traits by making proteins                     |
+| **Unit of inheritance**       | Gene                                                   |
+| **Different forms of a gene** | **Alleles** (e.g., T/t for tall/dwarf)                 |
+
+  🧩 Example:
+For plant height in pea plants:
+T = gene for tallness (dominant)
+t = gene for dwarfness (recessive)
+Combination TT / Tt → Tall, tt → Dwarf
+
+** diff in genes, chromosomes, DNA
+| Level          | Description                         | Example               |
+| -------------- | ----------------------------------- | --------------------- |
+| **Cell**       | Basic unit of life                  | Skin cell, nerve cell |
+| **Nucleus**    | Controls activities of cell         | Contains chromosomes  |
+| **Chromosome** | Thread-like structure made of DNA   | Humans have 46        |
+| **DNA**        | Long molecule carrying genetic code | Double helix          |
+| **Gene**       | Segment of DNA controlling a trait  | Eye color gene        |
+
+📊 In short:
+👉 Cell → Nucleus → Chromosome → DNA → Gene
+
+🧬 What is DNA?
+Full form: Deoxyribonucleic Acid
+Definition:
+DNA is a long, double-stranded molecule that carries the genetic instructions used in the growth, development, functioning, and reproduction of all living organisms.
+It is often called the “Blueprint of Life.”
+
+**Location:
+| Organism                        | Location of DNA                                               |
+| ------------------------------- | ------------------------------------------------------------- |
+| **Eukaryotes (like humans)**    | Inside the **nucleus** (also small amount in mitochondria)    |
+| **Prokaryotes (like bacteria)** | In the **cytoplasm** (nucleoid region) — not inside a nucleus |
+
+** Structure
+🧩 Structure of DNA
+🧭 Described by:
+James Watson and Francis Crick in 1953
+They proposed the Double Helix Model of DNA.
+(Rosalind Franklin provided X-ray photographs that helped this discovery.)
+
+Main structural feature:
+| Feature                | Description                                                 |
+| ---------------------- | ----------------------------------------------------------- |
+| **Shape**              | Double helix (like a twisted ladder)                        |
+| **Strands**            | Two long chains running opposite each other (anti-parallel) |
+| **Backbone**           | Made of **Sugar (Deoxyribose)** and **Phosphate** molecules |
+| **Rungs (steps)**      | Made of **Nitrogen bases** paired together                  |
+| **Bond between bases** | **Hydrogen bonds**                                          |
+| **Total unit**         | Many nucleotides joined together                            |
+
+🧱 Components of a DNA Nucleotide
+Each nucleotide (the building block of DNA) has 3 parts:
+Deoxyribose sugar
+Phosphate group
+Nitrogen base
+
+4 nitrogen bases:
+| Base Type      | Name     | Symbol | Pairs With   |
+| -------------- | -------- | ------ | ------------ |
+| **Purine**     | Adenine  | A      | Thymine (T)  |
+| **Purine**     | Guanine  | G      | Cytosine (C) |
+| **Pyrimidine** | Thymine  | T      | Adenine (A)  |
+| **Pyrimidine** | Cytosine | C      | Guanine (G)  |
+
+Base pairing rule:
+🧩 A — T (2 hydrogen bonds)
+🧩 G — C (3 hydrogen bonds)
+
+**Function Of DNA:
+| Function                          | Explanation                                         |
+| --------------------------------- | --------------------------------------------------- |
+| **1. Heredity**                   | DNA carries genes from parents to offspring.        |
+| **2. Protein synthesis**          | DNA codes for proteins that control traits.         |
+| **3. Control of cell activities** | DNA directs cell growth, repair, and metabolism.    |
+| **4. Mutation**                   | Small changes in DNA cause variation and evolution. |
+
+🧬 DNA and Genes Relationship
+Gene = A small section of DNA that carries instructions to make a specific protein.
+Many genes together form a chromosome.
+👉 DNA → Gene → Protein → Trait
+
+🌱 Variation — Definition
+Variation means the differences in characters or traits among the individuals of the same species.
+➡️ In simple terms, no two individuals (except identical twins) look exactly the same — these small or large differences are called variations.
+
+🧬 Cause of Variation
+Variations arise mainly due to:
+1)Genetic causes (inherited variation):
+During sexual reproduction, genes are shuffled when gametes (sperm and egg) combine.
+Crossing over during meiosis leads to new gene combinations.
+Mutations (sudden changes in DNA) also cause variation.
+
+2)Environmental causes (acquired variation):
+Due to changes in environment, food, climate, or lifestyle.
+Example: a person becomes strong by exercising — not inherited to the next generation.
+
+**Types of variation:
+| Type                         | Description                                    | Example                                  |
+| ---------------------------- | ---------------------------------------------- | ---------------------------------------- |
+| **Inherited (Genetic)**      | Passed from parents to offspring through genes | Eye color, hair type, blood group        |
+| **Acquired (Environmental)** | Develops during lifetime, not passed on        | Learning to play guitar, tanning of skin |
+| **Continuous**               | Small differences that blend gradually         | Height, weight                           |
+| **Discontinuous**            | Clear-cut differences                          | Blood group (A, B, AB, O)                |
+
+Eg:
+🧠 Examples
+In a population of bacteria, few may survive when antibiotics are added — due to variation, those with resistance survive and reproduce.
+Some plants tolerate drought better — variation helps them live in dry regions.
